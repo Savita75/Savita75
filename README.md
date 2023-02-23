@@ -1,6 +1,6 @@
 ### Hey! Nice to see you. 👋
 
-Welcome to my page! I am Savita Saw… I am data enthuasiast and hold masters of Data Science Degree…
+Welcome to my page! I am Savita Saw… I am data enthuasiast and pursuing masters of Data Science Degree…
 
 
 
